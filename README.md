@@ -1,2 +1,2 @@
-# mail
-Mail components
+# Mail
+Mail Components

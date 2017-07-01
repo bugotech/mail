@@ -1,0 +1,5 @@
+auto-service: bugotech.mail
+
+services:
+ - \Illuminate\Mail\MailServiceProvider
+ - \Bugotech\Mail\MailServiceProvider
